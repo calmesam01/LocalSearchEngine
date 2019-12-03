@@ -1,9 +1,11 @@
 # Tyrion Search - The Search Engine
-Made by : Team Tyrion (University of Windsor)
-Group Members: Saharsh Bawankar
-               KaranVeer Singh
-               Parminder Singh
-               Sanyam Sareen
+Made by : Team Tyrion (University of Windsor)<br><br>
+Group Members:<br>
+Sanyam Sareen<br>
+Saharsh Bawankar<br>
+KaranVeer Singh<br>
+Parminder Singh<br><br>
+
                 
 To run this project properly do following steps-
 
@@ -14,3 +16,4 @@ To run this project properly do following steps-
 3. Refresh the project. (Due to HTML to text conversion the Program will Halt at start.
 
 Any contributions are appreciated.
+<br>
